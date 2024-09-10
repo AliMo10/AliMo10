@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Html,Css and JavaScript
 - 📫 You can contact me by:
 -   www.linkedin.com/in/ali-moeinizadeh (Linkedin),
--   alimoeinizadeh@gmail.com(Email) and
--   @alimoeini10(Telegram)
+-   alimoeinizadeh@gmail.com (Email) and
+-   @alimoeini10 (Telegram)
 
 <!---
 AliMo10/AliMo10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
