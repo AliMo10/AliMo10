@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning Html,Css and JavaScript
 - 📫 You can contact me by:
--   www.linkedin.com/in/ali-moeinizadeh(Linkedin),
+-   www.linkedin.com/in/ali-moeinizadeh (Linkedin),
 -   alimoeinizadeh@gmail.com(Email) and
 -   @alimoeini10(Telegram)
 
